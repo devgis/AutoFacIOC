@@ -1,0 +1,15 @@
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\AutoFacIOC.exe
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\AutoFacIOC.pdb
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Autofac.dll
+E:\提升\AutoFacIOC\AutoFacIOC\obj\x86\Debug\AutoFacIOC.exe
+E:\提升\AutoFacIOC\AutoFacIOC\obj\x86\Debug\AutoFacIOC.pdb
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\AutoFacIOC.exe.config
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Autofac.Configuration.dll
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Autofac.xml
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Autofac.Configuration.xml
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\提升\AutoFacIOC\AutoFacIOC\bin\Debug\Microsoft.Extensions.Primitives.xml
